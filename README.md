@@ -52,3 +52,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Z9TONEDEVELOPER&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z9TONEDEVELOPER&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Z9towner?theme=dark&font=Montserrat&ext=heatmap&ext=activity)](https://leetcode.com/Z9towner/)
+
