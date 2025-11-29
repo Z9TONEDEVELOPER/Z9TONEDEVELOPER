@@ -58,10 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :chart_with_upwards_trend: GitHub Activity :
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z9TONEDEVELOPER&theme=github_dark"/>
 
-## :dart: 2025 Roadmap :
-- [ ] Take a study course UnityEngine.  
-- [ ] Develop and publish a second game.  
-- [ ] Solve 100+ problems on LeetCode.  
-- [ ] Start learning UnrealEngine.  
+
 
 
