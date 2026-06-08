@@ -1,63 +1,149 @@
-
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVmb3cwNmg0eTUyOHkxZmlyNDNjeTl6dHdiaDA0a2Nvb3lyeGo3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="300"/>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhhcmFxbHEyOHp5enp1N3ZqZGV4N3h6dzM4ZHdmeGo2dTh0YzM3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="100%" alt="Code Banner"/>
 </div>
-<div id="badges" align="center">
+
+<div align="center">
   <a href="https://t.me/Z9TOWNER">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://gitlab.com/Z9TONEDEVELOPER">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
   <a href="https://leetcode.com/u/Z9towner">
-    <img src="https://img.shields.io/badge/Leetcode-black?logo=leetcode&logoColor=dark&style=for-the-badge" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:z9townerwork@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-EF3936?style=for-the-badge&logo=yahoomail&logoColor=white" alt="Email"/>
   </a>
 </div>
-<div id="VIEWS" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Z9TONEDEVELOPER&style=flat-square&color=blue" alt="https://github.com/Z9TONEDEVELOPER"/>
-</div>
-<h1>
-  Hi, I'm Z9T
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm96ZGZ5d25xZHAweHBpdGVsZGVqNnFpenQ3MHR1YWF5a3o1bzVvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.webp" width="600" height="300"/>
+  <img src="https://komarev.com/ghpvc/?username=Z9TONEDEVELOPER&style=for-the-badge&color=0E6BA8&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-## :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m a Unity Developer with 2 years of experience in programming on C#, C++, and C. Currently, I’m working on developing a **strategy game** where players build structures, deploy hangars, and engage in battles with vehicles.
+---
 
-- :seedling: My goal is to reach the **Middle Developer** level in Unity and later transition to **Unreal Engine** for advanced game development. I also aspire to create several games and even write my **own operating system** in the future.
+## 👨‍💻 About Me
 
-- :zap: In my free time, I read programming books, learn new frameworks through YouTube tutorials, and solve coding problems on **LeetCode**.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ3ZjJhZGQxMjNlOWY3OTQ0ZDZlN2FhYmRkNzJkNjVlMzQ5ZiZjdD1n/QTUv6nTkQVvry6e9EA/giphy.gif" width="280" align="right" alt="Coding"/>
+</p>
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-z9towner-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Z9TOWNER)
-## :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-line.svg"  title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" title="bash" alt="bash" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original-wordmark.svg" title="blender" alt="blender " width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photonengine/photonengine-original.svg" title="photonengine" alt="photonengine" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" title="linux"  alt="linux" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-line-wordmark.svg" title="unity" alt="unity" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unrealengine/unrealengine-original-wordmark.svg" title="unrealengine" alt="unrealengine" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+I'm a **C#/.NET Developer** from Russia 🇷🇺, passionate about building robust, cross-platform, and fault-tolerant software solutions.
+
+- 🚀 **Focus:** Designing clean, scalable architectures and developing enterprise-grade applications.
+- 💻 **Core Expertise:** `.NET ecosystem`, `Clean Architecture`, `MVVM`, `Cross-platform development`.
+- 🌐 **Platforms:** Windows, macOS, Linux, Web, Mobile.
+- 🧠 **Philosophy:** Writing clean, maintainable, and well-documented code.
+- ⚡ **Beyond Code:** I'm deeply interested in **microelectronics**, **PCB design**, and **Arduino** programming — this hardware background gives me a unique perspective on software-hardware interaction.
+- 📚 **Continuous Learner:** Always exploring new .NET features, solving algorithmic problems, and contributing to open-source.
+
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ3ZjJhZGQxMjNlOWY3OTQ0ZDZlN2FhYmRkNzJkNjVlMzQ5ZiZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Rocket"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💎 Languages & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </div>
 
-## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Z9TONEDEVELOPER&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🚀 .NET Ecosystem & Architecture
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Blazor_Server-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/Avalonia_UI-8B008B?style=for-the-badge&logo=sharp&logoColor=white" alt="Avalonia"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MAUI"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-DD0031?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z9TONEDEVELOPER&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Rider"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Z9towner?theme=dark&font=Montserrat&ext=heatmap&ext=activity)](https://leetcode.com/Z9towner/)
+### ⚡ Hardware & Embedded
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Microcontrollers-000000?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Microcontrollers"/>
+  <img src="https://img.shields.io/badge/PCB_Design-00979D?style=for-the-badge&logo=kicad&logoColor=white" alt="PCB"/>
+  <img src="https://img.shields.io/badge/3D_Modeling-00B4AB?style=for-the-badge&logo=blender&logoColor=white" alt="3D"/>
+</div>
 
-## :chart_with_upwards_trend: GitHub Activity :
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z9TONEDEVELOPER&theme=github_dark"/>
+---
 
+## 📊 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Z9TONEDEVELOPER&theme=tokyonight" width="48%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Z9TONEDEVELOPER&theme=tokyonight" width="48%" alt="Repos per Language"/>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Z9TONEDEVELOPER&theme=tokyonight" width="48%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Z9TONEDEVELOPER&theme=tokyonight&utcOffset=3" width="48%" alt="Productive Time"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Z9TONEDEVELOPER&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z9TONEDEVELOPER&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Z9TONEDEVELOPER&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&area_color=58A6FF" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/highlight-stats?username=Z9TONEDEVELOPER&theme=tokyonight" width="48%" alt="Highlight Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Z9TONEDEVELOPER&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+
+---
+
+## 📈 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Z9towner?theme=dark&font=Montserrat&ext=heatmap&ext=activity" alt="LeetCode Stats"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>Let's build something amazing together! 🚀</sub>
+</div>
